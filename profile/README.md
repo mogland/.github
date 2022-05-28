@@ -1,6 +1,8 @@
 # Hi, Here is NEXT Space 👋
 
-NEXT Space is a unique personal space, can also be used as a personal blog,  continuous update.
+NEXT Space is a unique personal space, can also be used as a personal blog, continuous update.
+
+[Development Demo](https://iucky.cn/)
 
 *Inspired by [Mix Space](https://github.com/mx-space/).*
 
