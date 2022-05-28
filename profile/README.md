@@ -27,6 +27,7 @@ Now, we have 0 official frontend style, but you can go to see [nx-web-demo](http
 
 - ~~[nx-web-demo](https://github.com/wibus-wee/GS-web-demo), temporary, Working~~
 - [nx-A-My](https://github.com/wibus-wee/nx-A-My)
+- [effective-octo-meme](https://github.com/wibus-wee/effective-octo-meme)
 
 > This Organization's Repository is empty, just moment.
 
