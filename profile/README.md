@@ -23,11 +23,12 @@ We have 2 core repositories:
 - [nx-server](https://github.com/wibus-wee/nx-server), a core service for GoldenSpace, provide RESTFul API, power by nestjs
 - [nx-admin](https://github.com/wibus-wee/nx-admin), a dashboard for GoldenSpace Service, only provide the most fundamental functions.
 
-Now, we have 0 official frontend style, but you can go to see [nx-web-demo](https://github.com/wibus-wee/GS-web-demo). It's temporary.
+Now, we have 1-2 official(?) frontend style.
 
 - ~~[nx-web-demo](https://github.com/wibus-wee/GS-web-demo), temporary, Working~~
 - [nx-A-My](https://github.com/wibus-wee/nx-A-My)
 - [effective-octo-meme](https://github.com/wibus-wee/effective-octo-meme)
+- more...
 
 > This Organization's Repository is empty, just moment.
 
