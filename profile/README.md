@@ -9,7 +9,7 @@ NEXT Space is a unique personal space, can also be used as a personal blog, cont
 We have 2 core repositories.
 
 - [core (nx-server)](https://github.com/nx-space/nx-server), a core service for NEXT Space, provide RESTFul API, power by @nestjs
-- ~~[nx-admin](https://github.com/nx-space/nx-admin), a dashboard for NEXT Space Service, only provide the most fundamental functions.~~ *It need to be rewrited*
+- ~~[nx-admin](https://github.com/nx-space/nx-admin), a dashboard for NEXT Space Service, only provide the most fundamental functions.~~ *WIP*
 
 Now, we have 1-2 official(?) frontend style.
 
