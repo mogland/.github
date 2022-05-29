@@ -2,7 +2,7 @@
 
 NEXT Space is a unique personal space, can also be used as a personal blog, continuous update.
 
-[Development Demo](https://iucky.cn/)
+[Development Live Demo](https://iucky.cn/)
 
 *Inspired by [Mix Space](https://github.com/mx-space/).*
 
