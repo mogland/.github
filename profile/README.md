@@ -2,9 +2,9 @@
 
 NEXT Space is a unique personal space, can also be used as a personal blog, continuous update.
 
-[Development Live Demo](https://iucky.cn/)
+[Development Live Demo](https://iucky.cn/) [Documentation 文档](https://nx-docs.iucky.cn/)
 
-*Inspired by [Mix Space](https://github.com/mx-space/).*
+***Inspired by [Mix Space](https://github.com/mx-space/). Mix Space is recommended!***
 
 We have 2 core repositories.
 
