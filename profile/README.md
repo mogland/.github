@@ -13,6 +13,6 @@ We have 2 core repositories.
 
 Now, we have 1-2 official(?) frontend style.
 
-- [nx-web-demo](https://github.com/nx-space/GS-web-demo), 🤯 a web demo, without style
+- [nx-web-demo](https://github.com/nx-space/nx-web-demo), 🤯 a web demo, without style
 - [nx-A-My](https://github.com/nx-space/nx-A-My), 😇 Be self-centered, by rz.sb
 - [effective-octo-meme](https://github.com/nx-space/effective-octo-meme), 🥸 Haphazard Web Design, by wibus.
