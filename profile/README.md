@@ -2,7 +2,7 @@
 
 NEXT Space是一个独特的个人空间，也可以作为个人博客，正在开发中 `WIP`
 
-[开发版本 Demo](https://iucky.cn/) ｜ [Documentation 文档](https://nx-docs.iucky.cn/)
+[开发版本 Demo](https://iucky.cn/) ｜ [Documentation 文档](https://nx-docs.iucky.cn/)｜讨论组：754045715
 
 ***Inspired by [Mix Space](https://github.com/mx-space/). 同样强烈推荐您使用 Mix Space!***
 
@@ -17,3 +17,5 @@ NEXT 有两个核心仓库.
 - [nx-web-demo `test-theme`](https://github.com/nx-space/nx-web-demo), 🤯 a web demo, without style
 - [effective-octo-meme `WIP`](https://github.com/nx-space/effective-octo-meme), 🥸 Haphazard Web Design, by wibus.
 - ...more?
+
+**_无限进步！_**
