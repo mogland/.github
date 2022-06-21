@@ -1,6 +1,6 @@
 # Hi, Here is NEXT Space 👋
 
-NEXT Space是一个独特的个人空间，也可以作为个人博客，正在开发中 `WIP`
+NEXT Space是一个独特的个人空间，也可以作为个人博客，正在开发中（**超级缺开发者www**） `WIP`
 
 [开发版本 Demo](https://iucky.cn/) ｜ [Documentation 文档](https://nx-docs.iucky.cn/)｜讨论组：754045715
 
