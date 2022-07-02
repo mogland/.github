@@ -1,10 +1,20 @@
 # Hi, Here is NEXT Space 👋
 
-NEXT Space是一个独特的个人空间，也可以作为个人博客，正在开发中（**超级缺开发者www**） `WIP`
+NEXT Space是一个独特的个人空间，也可以作为个人博客，正在开发中 `WIP`
 
-[开发版本 Demo](https://iucky.cn/) ｜ [Documentation 文档](https://nx-docs.iucky.cn/)｜讨论组：754045715
+[开发版本 Demo](https://iucky.cn/) ｜ [Documentation 文档](https://nx-docs.iucky.cn/)
 
 ***Inspired by [Mix Space](https://github.com/mx-space/). 同样强烈推荐您使用 Mix Space!***
+
+为什么选择 NEXT?
+
+- **开箱即用**：支持 Bundle, Docker 两种启动方式
+- **速度飞起**：可以快速启动项目，多集群处理速度更快
+- **指标强大**：服务端渲染 (SSR) 支持，为 SEO 和高性能提供支持
+- **主题插件市场（WIP）**：主题多种开发方式，提供更多功能
+- **未来有望**：同时支持多种模板引擎和前后端分离，支持组件化开发
+- **插件系统**：支持创建属于你的插件，扩展 NEXT 原生服务的基本功能！
+- **更多功能**：NEXT 的未来等待你的发现和提交!
 
 NEXT 有两个核心仓库.
 
