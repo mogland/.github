@@ -13,9 +13,9 @@ NEXT 有两个核心仓库.
 
 目前，NEXT已诞生了 3 个主题.
 
-- [nx-A-My `WIP，优先开发`](https://github.com/nx-space/nx-A-My), 😇 Be self-centered, by rz.sb
-- [nx-web-demo `test-theme`](https://github.com/nx-space/nx-web-demo), 🤯 a web demo, without style
-- [effective-octo-meme `WIP`](https://github.com/nx-space/effective-octo-meme), 🥸 Haphazard Web Design, by wibus.
+- [nx-A-My `WIP` **`Next.js`**](https://github.com/nx-space/nx-A-My), 😇 Be self-centered, by rz.sb
+- [nx-web-demo **`Next.js`**](https://github.com/nx-space/nx-web-demo), 🤯 a web demo, without style
+- [effective-octo-meme `WIP` **`Next.js`**](https://github.com/nx-space/effective-octo-meme), 🥸 Haphazard Web Design, by wibus.
 
 现在，NEXT 团队正在筹划开发 5 个项目.
 
