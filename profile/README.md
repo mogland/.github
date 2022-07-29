@@ -19,10 +19,10 @@ NEXT 有两个核心仓库.
 
 现在，NEXT 团队正在筹划开发 5 个项目.
 
-- [nx-extension-producer](https://github.com/nx-space/nx-extension-producer), 为文章生产者所提供的 NEXT 浏览器扩展，可以在浏览器中使用
-- [nx-comment-wc](https://github.com/nx-space/nx-comments-wc), 一个适用于任何地方的评论 Web Component
+- **`开发阶段`** [nx-comment-wc](https://github.com/nx-space/nx-comments-wc), 一个适用于任何地方的评论 Web Component
+- **`讨论阶段`** [nx-extension-producer](https://github.com/nx-space/nx-extension-producer), 为文章生产者所提供的 NEXT 浏览器扩展，可以在浏览器中使用
+- **`讨论阶段`** [nx-cli](https://github.com/nx-space/nx-cli), 安装与开发 NEXT 的帮手
 - nx-aggregation, 使用 NEXT 的成员聚合平台，将与 **[中文博客列表导航](https://github.com/zh-blogs)** 合作共同发展联盟规模
-- nx-cli, 安装与开发 NEXT 的帮手
 - nx-marketplace, NEXT 的主题与插件市场
 
 
