@@ -11,15 +11,18 @@ NEXT 有两个核心仓库.
 - [core](https://github.com/nx-space/nx-server), NEXT Space 的核心服务端
 - [nx-admin](https://github.com/nx-space/nx-admin), NEXT Space 的核心服务后台面板. (*正在重写 `WIP`*)
 
-目前，NEXT已诞生了 3 个主题.
+目前，NEXT 已诞生了 3 个主题.
 
 - [nx-A-My `WIP` **`Next.js`**](https://github.com/nx-space/nx-A-My), 😇 Be self-centered, by rz.sb
 - [nx-web-demo **`Next.js`**](https://github.com/nx-space/nx-web-demo), 🤯 a web demo, without style
 - [effective-octo-meme `WIP` **`Next.js`**](https://github.com/nx-space/effective-octo-meme), 🥸 Haphazard Web Design, by wibus.
 
-现在，NEXT 团队正在筹划开发 5 个项目.
+当然，NEXT 也有一定的生态.
 
 - **`v0.1.0`** [nx-comment-wc](https://github.com/nx-space/nx-comments-wc), 一个适用于任何地方的评论 Web Component
+
+现在，NEXT 团队正在筹划开发 5 个项目.
+
 - **`讨论阶段`** [nx-extension-producer](https://github.com/nx-space/nx-extension-producer), 为文章生产者所提供的 NEXT 浏览器扩展，可以在浏览器中使用
 - **`讨论阶段`** [nx-cli](https://github.com/nx-space/nx-cli), 安装与开发 NEXT 的帮手
 - nx-aggregation, 使用 NEXT 的成员聚合平台，将与 **[中文博客列表导航](https://github.com/zh-blogs)** 合作共同发展联盟规模
