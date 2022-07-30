@@ -8,7 +8,7 @@ NEXT Space是一个独特的个人空间，也可以作为个人博客，正在�
 
 NEXT 有两个核心仓库.
 
-- [core (nx-server)](https://github.com/nx-space/nx-server), NEXT Space 的核心服务端
+- [core](https://github.com/nx-space/nx-server), NEXT Space 的核心服务端
 - [nx-admin](https://github.com/nx-space/nx-admin), NEXT Space 的核心服务后台面板. (*正在重写 `WIP`*)
 
 目前，NEXT已诞生了 3 个主题.
@@ -19,7 +19,7 @@ NEXT 有两个核心仓库.
 
 现在，NEXT 团队正在筹划开发 5 个项目.
 
-- **`开发阶段`** [nx-comment-wc](https://github.com/nx-space/nx-comments-wc), 一个适用于任何地方的评论 Web Component
+- **`v0.1.0`** [nx-comment-wc](https://github.com/nx-space/nx-comments-wc), 一个适用于任何地方的评论 Web Component
 - **`讨论阶段`** [nx-extension-producer](https://github.com/nx-space/nx-extension-producer), 为文章生产者所提供的 NEXT 浏览器扩展，可以在浏览器中使用
 - **`讨论阶段`** [nx-cli](https://github.com/nx-space/nx-cli), 安装与开发 NEXT 的帮手
 - nx-aggregation, 使用 NEXT 的成员聚合平台，将与 **[中文博客列表导航](https://github.com/zh-blogs)** 合作共同发展联盟规模
