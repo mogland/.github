@@ -2,7 +2,7 @@
 
 NEXT Space是一个独特的个人空间，也可以作为个人博客，正在开发中 `WIP`
 
-[开发版本 Demo](https://iucky.cn/) ｜ [Documentation 文档](https://nx-docs.iucky.cn/) | *[为什么选择 NEXT?](https://nx-docs.iucky.cn/guide/)*
+[开发版本 Demo](https://iucky.cn/) ｜ [Documentation 文档](https://nx.js.org/) | *[为什么选择 NEXT?](https://nx.js.org/guide/)*
 
 **Inspired by [Mix Space](https://github.com/mx-space/). 同样强烈推荐您使用 Mix Space!**
 
