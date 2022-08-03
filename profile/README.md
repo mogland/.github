@@ -8,8 +8,8 @@ NEXT Space是一个独特的个人空间，也可以作为个人博客，正在�
 
 NEXT 有两个核心仓库.
 
-- [core](https://github.com/nx-space/nx-server), NEXT Space 的核心服务端
-- [nx-admin](https://github.com/nx-space/nx-admin), NEXT Space 的核心服务后台面板. (*正在重写 `WIP`*)
+- **`v1.5.3`** [core](https://github.com/nx-space/nx-server), NEXT Space 的核心服务端
+- **`v0.1.0`** [nx-admin](https://github.com/nx-space/nx-admin), NEXT Space 的核心服务后台面板. (*正在重写 `WIP`*)
 
 目前，NEXT 已诞生了 3 个主题.
 
