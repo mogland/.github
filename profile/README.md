@@ -8,18 +8,16 @@ NEXT Space是一个独特的个人空间，也可以作为个人博客，正在�
 
 NEXT 有两个核心仓库.
 
-- **`v1.5.3`** [core](https://github.com/nx-space/nx-server), NEXT Space 的核心服务端
-- **`v0.1.0`** [nx-admin](https://github.com/nx-space/nx-admin), NEXT Space 的核心服务后台面板. (*正在重写 `WIP`*)
+- **`Released`** [core](https://github.com/nx-space/nx-server), NEXT Space 的核心服务端
+- **`Released`** [nx-admin](https://github.com/nx-space/nx-admin), NEXT Space 的核心服务后台面板. (*正在重写 `WIP`*)
 
 目前，NEXT 已诞生了 3 个主题.
 
-- [nx-A-My `WIP` **`Next.js`**](https://github.com/nx-space/nx-A-My), 😇 Be self-centered, by rz.sb
-- [nx-web-demo **`Next.js`**](https://github.com/nx-space/nx-web-demo), 🤯 a web demo, without style
-- [effective-octo-meme `WIP` **`Next.js`**](https://github.com/nx-space/effective-octo-meme), 🥸 Haphazard Web Design, by wibus.
+- **`Released`** [nx-theme-tiny](https://github.com/nx-space/nx-theme-tiny), A simple, clean, and minimalistic theme for NEXT.
 
 当然，NEXT 也有一定的生态.
 
-- **`v0.1.0`** [nx-comment-wc](https://github.com/nx-space/nx-comments-wc), 一个适用于任何地方的评论 Web Component
+- **`Released`** [nx-comment-wc](https://github.com/nx-space/nx-comments-wc), 一个适用于任何地方的评论 Web Component
 
 现在，NEXT 团队正在筹划开发 5 个项目.
 
