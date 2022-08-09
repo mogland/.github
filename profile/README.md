@@ -13,7 +13,7 @@ NEXT 有两个核心仓库.
 
 目前，NEXT 已诞生了 3 个主题.
 
-- **`Released`** [nx-theme-tiny](https://github.com/nx-space/nx-theme-tiny), A simple, clean, and minimalistic theme for NEXT.
+- **`Released`** [nx-theme-tiny](https://github.com/nx-space/nx-theme-tiny), 一个简单、纯净、最小化的主题，适用于 NEXT
 
 当然，NEXT 也有一定的生态.
 
