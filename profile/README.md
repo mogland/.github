@@ -19,7 +19,7 @@ NEXT 有两个核心仓库.
 
 - **`Released`** [nx-comment-wc](https://github.com/nx-space/nx-comments-wc), 一个适用于任何地方的评论 Web Component
 
-现在，NEXT 团队正在筹划开发 5 个项目.
+现在，NEXT 团队正在筹划开发 4 个项目.
 
 - **`讨论阶段`** [nx-extension-producer](https://github.com/nx-space/nx-extension-producer), 为文章生产者所提供的 NEXT 浏览器扩展，可以在浏览器中使用
 - **`讨论阶段`** [nx-cli](https://github.com/nx-space/nx-cli), 安装与开发 NEXT 的帮手
