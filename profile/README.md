@@ -20,7 +20,8 @@ NEXT 有两个核心仓库.
 
 当然，NEXT 也有一定的生态.
 
-- **`Released`** [nx-comment-wc](https://github.com/nx-space/nx-comments-wc), 一个适用于任何地方的评论 Web Component
+- **`Released`** [nx-comments-wc](https://github.com/nx-space/nx-comments-wc), 一个适用于任何地方的评论 Web Component
+- **`Released`** [nx-comments-react](https://github.com/nx-space/nx-comments-react), 一个适用于 React 前端的评论部件
 
 现在，NEXT 团队正在筹划开发 4 个项目.
 
